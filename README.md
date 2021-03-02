@@ -8,7 +8,7 @@ The cliff climbing problem is commonly applied because it requires a reinforceme
 
 ### Output
 
-![](cliff_short.png)
+![](cliff-short.png)
 
 ![](cliff_long.png)
 
